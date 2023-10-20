@@ -6,7 +6,7 @@ An App that shows Taiwan Michelin restaurants information.
 - Sort or reverse sort by Distinction
 - Multiple-select filter for distinction and city
 - Instant search for restaurant name, city, or type
-- One tap to call or navigate to the restaurant
+- One tap to call or navigate to the restaurant (phone call will not work on simulator, please run on actual device to test the feature)
 
 ## Future Plans
 - Seperate Sustainable from distinction filter options, it should be independent
