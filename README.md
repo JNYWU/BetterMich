@@ -1,4 +1,9 @@
-# BetterMich
+# Deprecated
+- This is the initial version of the app
+- For the latest version and future updates please go to the following repo
+  https://github.com/JNYWU/MichTaiMenu
+
+## BetterMich
 An App that shows Taiwan Michelin restaurants information.
 
 ## Features
